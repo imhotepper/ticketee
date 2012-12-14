@@ -1,1 +1,1 @@
-Ticketee based on the rails in action 3/4 from manning.
+Ticketee based on the book Rails in Action 3/4 from Manning.
