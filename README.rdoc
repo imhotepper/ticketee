@@ -1,1 +1,4 @@
-Ticketee based on the book Rails in Action 3/4 from Manning.
+Ticketee based on the book Rails in Action 3 and/or 4 from Manning.
+
+
+heroku sample: http://ticketee2012.herokuapp.com/

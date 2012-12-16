@@ -1,0 +1,23 @@
+1355680852
+Application	/Users/dragosh/Rails/ticketee/config/application.rb	  class Application 
+ApplicationController	/Users/dragosh/Rails/ticketee/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/Users/dragosh/Rails/ticketee/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/Users/dragosh/Rails/ticketee/test/performance/browsing_test.rb	class BrowsingTest 
+CreateProjects	/Users/dragosh/Rails/ticketee/db/migrate/20121214121623_create_projects.rb	class CreateProjects 
+GET 'index'	/Users/dragosh/Rails/ticketee/spec/controllers/projects_controller_spec.rb	describe "GET 'index'" do
+Project	/Users/dragosh/Rails/ticketee/app/models/project.rb	class Project 
+ProjectsController	/Users/dragosh/Rails/ticketee/app/controllers/projects_controller.rb	class ProjectsController 
+ProjectsHelper	/Users/dragosh/Rails/ticketee/app/helpers/projects_helper.rb	module ProjectsHelper
+TestCase	/Users/dragosh/Rails/ticketee/test/test_helper.rb	class ActiveSupport::TestCase
+Ticketee	/Users/dragosh/Rails/ticketee/config/application.rb	module Ticketee
+change	/Users/dragosh/Rails/ticketee/db/migrate/20121214121623_create_projects.rb	  def change
+concats two strings with spaces	/Users/dragosh/Rails/ticketee/spec/helpers/projects_helper_spec.rb	it "concats two strings with spaces" do
+create	/Users/dragosh/Rails/ticketee/app/controllers/projects_controller.rb	  def create
+index	/Users/dragosh/Rails/ticketee/app/controllers/projects_controller.rb	  def index
+new	/Users/dragosh/Rails/ticketee/app/controllers/projects_controller.rb	  def new
+projects/index.html.erb	/Users/dragosh/Rails/ticketee/spec/views/projects/index.html.erb_spec.rb	describe "projects/index.html.erb" do
+returns http success	/Users/dragosh/Rails/ticketee/spec/controllers/projects_controller_spec.rb	it "returns http success" do
+show	/Users/dragosh/Rails/ticketee/app/controllers/projects_controller.rb	  def show
+string concat	/Users/dragosh/Rails/ticketee/spec/helpers/projects_helper_spec.rb	describe "string concat" do
+test_homepage	/Users/dragosh/Rails/ticketee/test/performance/browsing_test.rb	  def test_homepage
+title	/Users/dragosh/Rails/ticketee/app/helpers/application_helper.rb	  def title(*parts)
